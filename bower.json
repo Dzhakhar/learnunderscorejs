@@ -1,0 +1,21 @@
+{
+  "name": "underscore",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Dzhakhar Ukhaev"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "underscorejs"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

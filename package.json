@@ -1,0 +1,19 @@
+{
+  "name": "underscore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "underscorejs"
+  ],
+  "author": "Dzhakhar Ukhaev",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0"
+  }
+}
